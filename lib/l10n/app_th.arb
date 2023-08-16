@@ -1,0 +1,76 @@
+{
+  "language": "ไทย",
+  "@language": {
+      "description": "นี่คือไฟล์ภาษาไทย"
+  },
+
+  "appbartxt": "เครื่องคำนวณการลงทุน",
+  "@appbartxt": {
+      "description": "เครื่องคำนวณการลงทุน"
+  },
+
+  "hometxt" : "ยินดีต้อนรับสู่เครื่องคำนวณการลงทุน",
+  "@hometxt": {
+      "description": "ยินดีต้อนรับสู่เครื่องคำนวณการลงทุน"
+  },
+
+  "home" : "หน้าหลัก",
+  "@home": {
+      "description": "หน้าหลัก"
+  },
+
+  "cdb" : "CDB",
+  "@cdb": {
+      "description": "CDB"
+  },
+
+  "savingsAccount" : "บัญชีเงินฝาก",
+  "@savingAccount": {
+      "description": "บัญชีเงินฝาก"
+  },
+
+  "selic" : "พระราชทรัพย์เซลิค",
+  "@selic": {
+      "description": "พระราชทรัพย์เซลิค"
+  },
+
+  "titleCDB" : "จำลองการลงทุนใน CDB",
+  "@titleCDB" : {
+      "description": "จำลองการลงทุนใน CDB"
+  },
+
+  "initInvestiment" : "การลงทุนเริ่มต้น",
+  "@initInvestiment": {
+      "description" : "การลงทุนเริ่มต้น"
+  },
+
+  "monthlyInvestiment" : "การลงทุนรายเดือน",
+  "@monthlyInvestiment": {
+      "description" : "การลงทุนรายเดือน"
+  },
+
+  "months" : "เดือน",
+  "@months": {
+      "description" : "เดือน"
+  },
+
+  "calculate" : "คำนวณ",
+  "@calculate": {
+      "description" : "คำนวณ"
+  },
+
+  "brl" : "ผลลัพธ์ใน BRL ใน ",
+  "@brl" : {
+      "description": "ผลลัพธ์ใน BRL ใน "
+  },
+
+  "titleselic" : "จำลองการลงทุนในพระราชทรัพย์เซลิค",
+  "@titleselic" : {
+      "description": "จำลองการลงทุนในพระราชทรัพย์เซลิค"
+  },
+
+  "titlessavingsAccount" : "จำลองการลงทุนในบัญชีเงินฝาก",
+  "@titlesavingsAccount" : {
+      "description": "จำลองการลงทุนในบัญชีเงินฝาก"
+  }
+}

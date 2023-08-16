@@ -1,0 +1,76 @@
+{
+  "language": "Português",
+  "@language": {
+      "description": "Este é o arquivo de idioma em Português"
+  },
+
+  "appbartxt": "Calculadora de Investimentos",
+  "@appbartxt": {
+      "description": "Calculadora de Investimentos"
+  },
+
+  "hometxt" : "Bem-vindo à Calculadora de Investimentos",
+  "@hometxt": {
+      "description": "Bem-vindo à Calculadora de Investimentos"
+  },
+
+  "home" : "Início",
+  "@home": {
+      "description": "Início"
+  },
+
+  "cdb" : "CDB",
+  "@cdb": {
+      "description": "CDB"
+  },
+
+  "savingsAccount" : "Conta Poupança",
+  "@savingAccount": {
+      "description": "Conta Poupança"
+  },
+
+  "selic" : "Tesouro Selic",
+  "@selic": {
+      "description": "Tesouro Selic"
+  },
+
+  "titleCDB" : "Simular Investimento em CDB",
+  "@titleCDB" : {
+      "description": "Simular Investimento em CDB"
+  },
+
+  "initInvestiment" : "Investimento Inicial",
+  "@initInvestiment": {
+      "description" : "Investimento Inicial"
+  },
+
+  "monthlyInvestiment" : "Investimento Mensal",
+  "@monthlyInvestiment": {
+      "description" : "Investimento Mensal"
+  },
+
+  "months" : "meses",
+  "@months": {
+      "description" : "meses"
+  },
+
+  "calculate" : "calcular",
+  "@calculate": {
+      "description" : "calcular"
+  },
+
+  "brl" : "Resultado em BRL em ",
+  "@brl" : {
+      "description": "Resultado em BRL em "
+  },
+
+  "titleselic" : "Simular Investimento em Tesouro Selic",
+  "@titleselic" : {
+      "description": "Simular Investimento em Tesouro Selic"
+  },
+
+  "titlessavingsAccount" : "Simular Investimento em Conta Poupança",
+  "@titlesavingsAccount" : {
+      "description": "Simular Investimento em Conta Poupança"
+  }
+}

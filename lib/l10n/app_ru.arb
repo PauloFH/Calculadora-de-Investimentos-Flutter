@@ -1,0 +1,76 @@
+{
+    "language": "Русский",
+    "@language": {
+        "description": "Это файл русского языка"
+    },
+
+    "appbartxt": "Инвестиционный калькулятор",
+    "@appbartxt": {
+        "description": "Инвестиционный калькулятор"
+    },
+
+    "hometxt" : "Добро пожаловать в инвестиционный калькулятор",
+    "@hometxt": {
+        "description": "Добро пожаловать в инвестиционный калькулятор"
+    },
+
+    "home" : "Главная",
+    "@home": {
+        "description": "Главная"
+    },
+
+    "cdb" : "CDB",
+    "@cdb": {
+        "description": "CDB"
+    },
+
+    "savingsAccount" : "Сберегательный счет",
+    "@savingAccount": {
+        "description": "Сберегательный счет"
+    },
+
+    "selic" : "Селик сокровище",
+    "@selic": {
+        "description": "Селик сокровище"
+    },
+
+    "titleCDB" : "Симуляция инвестиций в CDB",
+    "@titleCDB" : {
+        "description": "Симуляция инвестиций в CDB"
+    },
+
+    "initInvestiment" : "Начальная инвестиция",
+    "@initInvestiment": {
+        "description" : "Начальная инвестиция"
+    },
+
+    "monthlyInvestiment" : "Ежемесячная инвестиция",
+    "@monthlyInvestiment": {
+        "description" : "Ежемесячная инвестиция"
+    },
+
+    "months" : "месяцев",
+    "@months": {
+        "description" : "месяцев"
+    },
+
+    "calculate" : "рассчитать",
+    "@calculate": {
+        "description" : "рассчитать"
+    },
+
+    "brl" : "Результат в BRL в ",
+    "@brl" : {
+        "description": "Результат в BRL в "
+    },
+
+    "titleselic" : "Симуляция инвестиций в сокровища Селика",
+    "@titleselic" : {
+        "description": "Симуляция инвестиций в сокровища Селика"
+    },
+
+    "titlessavingsAccount" : "Симуляция инвестиций в сберегательный счет",
+    "@titlesavingsAccount" : {
+        "description": "Симуляция инвестиций в сберегательный счет"
+    }
+}

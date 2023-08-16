@@ -1,0 +1,86 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "This is the English language file"
+    },
+
+    "appbartxt": "Investment Calculator",
+    "@appbartxt":{
+        "description": "Investment Calculator"
+    },
+
+    "hometxt" : "Well cum to the Investment Calculator",
+    "@hometxt":{
+        "description": "Well cum to the Investment Calculator"
+    },
+
+    "home" : "Home",
+    "@home":{
+        "description": "Home"
+    },
+
+    "cdb" : "CDB",
+    "@cdb":{
+        "description": "CDB"
+    },
+
+    "savingsAccount" : "Savings Account",
+    "@savingAccount":{
+        "description": "Savings Account"
+    },
+
+    "selic" : "Selic treasure",
+    "@selic":{
+        "description": "selic treasure"
+    },
+
+    "titleCDB" : "Simulate Investment in CDB",
+    
+    "@titleCDB" :{
+        "description": "Simulate Investment in CDB"
+    },
+
+    "initInvestiment" : "Initial investment",
+
+    "@initInvestiment":{
+        "description" : "Initial investment"
+    },
+
+    "monthlyInvestiment" : "Monthly investment",
+
+    "@monthlyInvestiment":{
+        "description" : "Monthly investment"
+    },
+    "months" : "months",
+    "@months":{
+        "description" : "months"
+    },
+
+    "calculate" : "calculate",
+    "@calculate":{
+        "description" : "calculate"
+    },
+
+    "calculate" : "calculate",
+    "@calculate":{
+        "description" : "calculate"
+    },
+
+    "brl" : "Result in BRL ins ",
+    "@brl" :{
+        "description": "Result in BRL ins "
+    },
+
+    "titleselic" : "Simulate Investment in Selic treasure",
+    
+    "@titleselic" :{
+        "description": "Simulate Investment in Selic treasure"
+    },
+
+    "titlessavingsAccount" : "Simulate Investment in savings Account",
+    
+    "@titlesavingsAccount" :{
+        "description": "Simulate Investment in savings Account"
+    }
+
+}
