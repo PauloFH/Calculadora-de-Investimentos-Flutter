@@ -248,7 +248,7 @@ class _TabTesouroSelicState extends State<TabTesouroSelic> {
     double saldoAcumulado = initialInvestment;
 
     for (int i = 1; i <= months; i++) {
-      juros = (saldoAcumulado! * ((0.5) / 100));
+      juros = (saldoAcumulado! * ((0.77) / 100));
       saldoAcumulado += juros + monthlyInvestment;
     }
     return saldoAcumulado;

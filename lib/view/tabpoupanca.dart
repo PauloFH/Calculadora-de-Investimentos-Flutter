@@ -248,7 +248,7 @@ class _TabPoupanca extends State<TabPoupanca> {
     double saldoAcumulado = initialInvestment;
 
     for (int i = 1; i <= months; i++) {
-      juros = (saldoAcumulado! * ((0.5) / 100));
+      juros = (saldoAcumulado! * ((1.2) / 100));
       saldoAcumulado += juros + monthlyInvestment;
     }
     return saldoAcumulado;
